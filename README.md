@@ -3,7 +3,7 @@
 I am a Software Developer and a dual major Computer Science and Management student at Tel Aviv University (3 semesters remaining!). I focus on building high-performance applications, complex system simulations, and integrating AI-native workflows into modern development.
 
 ## 💻 Technical Stack & Tools
-* **Languages:** Python, C, C++, C#, JavaScript, React
+* **Languages:** Python, Java, C, C++, C#, JavaScript, SQL, React
 * **Workflows:** AI-native development (Cursor, Claude Code, xEngineer workflows)
 * **Interests:** System simulations, low-level integrations, AI agent architecture, and cybersecurity
 
